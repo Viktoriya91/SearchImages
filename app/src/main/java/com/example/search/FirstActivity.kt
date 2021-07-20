@@ -107,6 +107,7 @@ class FirstActivity : AppCompatActivity() {
                 listAll.clear()
                 listAll = i.getSerializableExtra(ConstantsForCode.LIST_KEY) as ArrayList<ImagesResult>
                 adapter.updateAdapter(listAll)
+                btnAddImages.visibility = View.VISIBLE
             }
         }
     }
