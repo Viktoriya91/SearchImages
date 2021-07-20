@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Search</string>
+    <string name="text_not_connect">Нет подключения к сети</string>
+    <string name="search_text">Поиск</string>
+    <string name="add_images">Открыть следующую страницу</string>
+    <string name="error">Ошибка</string>
+</resources>
